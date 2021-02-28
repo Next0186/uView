@@ -426,6 +426,7 @@
 
 	.u-tabs-scroll-box {
 		position: relative;
+		white-space: nowrap;
 	}
 
 	.u-tabs-scorll-flex {
